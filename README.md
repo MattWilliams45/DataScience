@@ -5,7 +5,7 @@ categories: ["course"]
 ---
 
 # Data Science
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/stuartbowyer/sdsai-lecture-notes)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/MattWilliams45/DataScience)
 
 | MMedSci: Data Science Domain|
 | October 2027 - |
@@ -17,12 +17,34 @@ This course provides an introduction to the basics of programming and computatio
 The core outline is:
 
 ### An introduction to programming and computation
-XXX
+An introduction to computation 
+Getting started with programming 
+Ext1 
+Programming Practical 
+Cons 1: Programming exercises – probably with Digital Assets team 
 
-### Exploratory Data Analysis
-XXXX
 
-### TBC
+### More programming, and some data
+Programming recap 
+Introduction to some data 
+Ext2 
+Data analysis practical 
+Cons 2: Programming exercises 
+
+ 
+### Ethics; Programming review
+A history of computational ethical mishaps 
+Regulatory aspects of ethics 
+Ext3 
+Programming review 
+Cons 3: Prep for short talks 
+
+### Session 4: Data presentation and exploration 
+An introduction to EDA 
+Short 1 & 2 
+EDA practical (Mini-Hackathon over CV Data) 
+Ext4 
+Cons 4: EDA reading – visualisation  
 
 ## Previous Versions
 | Year | Version | Link |
