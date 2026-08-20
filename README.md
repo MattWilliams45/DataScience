@@ -17,11 +17,11 @@ This course provides an introduction to the basics of programming and computatio
 The core outline is:
 
 ### An introduction to programming and computation
-An introduction to computation 
-Getting started with programming 
-Ext1 
-Programming Practical 
-Cons 1: Programming exercises – probably with Digital Assets team 
+*An introduction to computation 
+*Getting started with programming 
+*Ext1 
+*Programming Practical 
+*Cons 1: Programming exercises – probably with Digital Assets team 
 
 
 ### More programming, and some data
